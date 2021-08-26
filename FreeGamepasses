@@ -1,0 +1,4 @@
+local main = debug.getupvalues(require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library")).Save.Get)[2][game.Players.LocalPlayer].save.Gamepasses
+table.insert(main,18674296)
+table.insert(main,18674298)
+table.insert(main,18674307)
